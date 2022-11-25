@@ -1,0 +1,1 @@
+http://lyj.sqlilabs.net/Less-2/?id=1 (GET)  # D:\python\sqli_scan/sqlmap/sqlmap.py -u http://lyj.sqlilabs.net/Less-2/?id=1 --batch --retries=1 --random-agent --output-dir=D:\python\sqli_scan/sqlmap/log
