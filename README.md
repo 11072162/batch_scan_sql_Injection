@@ -10,8 +10,6 @@
 
 批量扫描网站sql注入
 
-![dirmap](doc/dirmap.png)
-
 那么接下来看看batch_scan_sql_Injection的**特点**吧
 
 # 功能特点
