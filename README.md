@@ -6,8 +6,6 @@
  -->
 # batch_scan_sql_Injection
 
-[English](./README_EN.md)
-
 批量扫描网站sql注入
 
 那么接下来看看batch_scan_sql_Injection的**特点**吧
@@ -56,4 +54,3 @@ python3 sqlinject.py -r url.txt
 
 mail: qq11072162@gmail.com
 
-![donate](doc/donate.jpg)
